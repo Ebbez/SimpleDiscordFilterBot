@@ -1,0 +1,24 @@
+{
+  "token": "",
+  "exempt": {
+    "users": [],
+    "channels": []
+  },
+  "activity": {
+    "description": "you as you type",
+    "type": "WATCHING"
+  },
+  "warningResponse": "that word is not allowed, read the rules. You will be receiving a warning (and a mute if you said a very bad word). These warnings are appealable under certain circumstances, message a moderator if you think the warning is undeserved.",
+  "mildSwearConfig": {
+    "list": [],
+    "explicitList": [],
+    "warningChannelID": "",
+    "warningMessage": "%user% just said `%message%` in `#%channel%` in which there is a word (`%word%`) from the banned list (mild swear). Someone warn them please."
+  },
+  "badSlurConfig": {
+    "list": [],
+    "explicitList": [],
+    "warningChannelID": "",
+    "warningMessage": "%user% has said a `%message%` in `#%channel%` in which there is a word (`%word%`) from the banned list (slur). Someone warn and mute them please."
+  }
+}

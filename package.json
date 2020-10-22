@@ -1,0 +1,14 @@
+{
+  "name": "discordfilterbot",
+  "version": "1.0.0",
+  "description": "Quick 'n dirty, but very simple and customizable Discord swear/slur filter bot.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "Ebbe Zeinstra",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
